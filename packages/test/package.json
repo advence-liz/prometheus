@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "0.0.6",
+  "description": "> TODO: description",
+  "author": "advence-liz <advence_liz@163.com>",
+  "homepage": "https://github.com/advence-liz/prometheus#readme",
+  "license": "ISC",
+  "main": "lib/test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advence-liz/prometheus.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/advence-liz/prometheus/issues"
+  }
+}
